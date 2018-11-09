@@ -1,0 +1,28 @@
+.jquery-statusbar {
+    display: flex;
+}
+
+.jquery-statusbar-col {
+    flex-grow: 1;
+    margin: 0;
+    padding: 0 5px;
+    height: 100%;
+    overflow: hidden;
+}
+
+.jquery-statusbar p {
+    margin: 0;
+    padding: 0;
+}
+
+.jquery-statusbar-left {
+    text-align: left;
+}
+
+.jquery-statusbar-center {
+    text-align: center;
+}
+
+.jquery-statusbar-right {
+    text-align: right;
+}

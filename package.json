@@ -1,0 +1,16 @@
+{
+  "name": "jquery-electron-statusbar",
+  "version": "1.0.0",
+  "description": "An statusbar plugin built on top of jquery for electron",
+  "main": "jquery.statusbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "statusbar",
+    "electron",
+    "jquery"
+  ],
+  "author": "Jacob Radatz <jradatz@imagesoftinc.com>",
+  "license": "GPL-3.0-or-later"
+}
